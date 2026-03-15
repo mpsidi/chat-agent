@@ -34,14 +34,13 @@ docker cp n8n:/tmp/workflows ~/chat-agent/
 
 ## Server Setup
 
-Server: Domainesia VPS  
-Containers:
+Server: Domainesia VPS
 
+Containers:
 - n8n
 - WAHA
 
 Ports:
-
 - n8n → 5678
 - WAHA → 3000
 
